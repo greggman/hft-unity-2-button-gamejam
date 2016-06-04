@@ -1,6 +1,12 @@
 HFT-UNITY-2-BUTTON-GAMEJAM
 ==========================
 
+** This repo is depecated. It has been merged with http://github.com/greggman/hft-unity3d **
+
+In that repo see the scenes in `Assets/HappyFunTimes/Samples/Scenes`
+
+---
+
 This is a Unity template for the [Pico Pico Cafe](http://picopicocafe.com) [HappyFunTimes](http://docs.happyfuntimes.net) 2 button gamejam
 
 <img src="Assets/WebPlayerTemplates/HappyFunTimes/screenshot.png" />
